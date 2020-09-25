@@ -1,7 +1,5 @@
 ## Hey! 👋
-# I'm an aerospace engineer who took a turn into software engineering. I live in Boulder, Colorado and currently work at Ball Aerospace!
-<!--
-**JashanChopra/JashanChopra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm an aerospace engineer who took a turn into software engineering. I live in Boulder, Colorado and currently work at Ball Aerospace!
 
 ## Work
 
