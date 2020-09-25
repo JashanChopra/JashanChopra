@@ -1,5 +1,4 @@
-## Hey! 👋
-### I'm an aerospace engineer who took a turn into software engineering. I live in Boulder, Colorado and currently work at Ball Aerospace!
+### Hey! 👋 I'm an aerospace engineer who took a turn into software engineering. I live in Boulder, Colorado and currently work at Ball Aerospace.
 
 ## Work
 
@@ -9,7 +8,7 @@
 
 * University of Colorado Boulder: mostly MATLAB experience, as reflected in some of the repositories on my page. Lots of data handling, reading poor data and shaping it into something useable, applying equations / algos learned in class. Did a fair bit of work throughout the four years with nonlinear equation solvers, and some higher level statistical analysis of state space models with Kalman filters for a graduate class. Handled some automated electronics testing using RS232 communication with a power supply for detector testing on the CIRBE CubeSat mission over at LASP. 
 
-You can find more of my non-software work over at my [LinkedIn account.](hhttps://www.linkedin.com/in/jashanchopra/) 
+You can find more of my non-software work over at my [LinkedIn account.](https://www.linkedin.com/in/jashanchopra/) 
 
 ## Personal
 You can find some of my personal work at my [website!](jashan.org) I like to cook, write, bike, and do night photography when I get the time. 
