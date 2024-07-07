@@ -1,4 +1,4 @@
-### Hey! 👋 I'm an aerospace engineer who took a turn into software engineering. I live in Boulder, Colorado and currently work at Ball Aerospace.
+### Hey! 👋 I'm an aerospace engineer who took a turn into software engineering. I live in Washington D.C and work on software for satellite ground systems.
 
 ## Work
 
