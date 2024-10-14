@@ -2,7 +2,7 @@
 
 ## Work
 
-* **Ball Aerospace**: supporting the Systems Operability group within ground and flight software solutions, mainly on our internal command and control software, COSMOS. Working on building the future of ground systems. 
+* **Ball Aerospace**: supported the Systems Operability group within ground and flight software solutions, mainly on our internal command and control software, COSMOS. 
 
 * **Institute of Arctic and Alpine Research**: made some neat data visualizations working with atmospheric concentrations from the Boulder Reservoir, some for news articles lamenting the state on oil/gas emissions, and some for publications. Did a basic website design to display real time data for the Summit, Greenland monitoring site, and helped to improve the backend automated data processor behind it. 
 
